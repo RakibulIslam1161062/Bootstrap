@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f78d85d-0df9-477c-b175-3a2745921b14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sideBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Different Device LAyouts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,7 +69,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.nav.html">
+  <component name="RunManager" selected="JavaScript Debug.Different Device LAyouts.html">
+    <configuration name="Different Device LAyouts.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstapBegin/Different Device LAyouts.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstapBegin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -83,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Different Device LAyouts.html" />
         <item itemvalue="JavaScript Debug.nav.html" />
         <item itemvalue="JavaScript Debug.sidebar.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -104,7 +106,8 @@
       <workItem from="1564425550388" duration="3070000" />
       <workItem from="1564433569708" duration="2146000" />
       <workItem from="1566017159364" duration="3610000" />
-      <workItem from="1566021144970" duration="32000" />
+      <workItem from="1566021144970" duration="792000" />
+      <workItem from="1566071837554" duration="1870000" />
     </task>
     <servers />
   </component>
