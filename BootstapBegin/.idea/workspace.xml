@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f78d85d-0df9-477c-b175-3a2745921b14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sideBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
     </list>
@@ -29,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -45,6 +48,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -64,17 +71,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.nav.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstapBegin/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="nav.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstapBegin/nav.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="sidebar.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BootstapBegin/sidebar.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.nav.html" />
+        <item itemvalue="JavaScript Debug.sidebar.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +102,9 @@
       <workItem from="1564259328991" duration="3074000" />
       <workItem from="1564334550317" duration="2776000" />
       <workItem from="1564425550388" duration="3070000" />
-      <workItem from="1564433569708" duration="1923000" />
+      <workItem from="1564433569708" duration="2146000" />
+      <workItem from="1566017159364" duration="3610000" />
+      <workItem from="1566021144970" duration="32000" />
     </task>
     <servers />
   </component>
